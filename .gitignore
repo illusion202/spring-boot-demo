@@ -2,6 +2,7 @@
 /build/
 /gradle/wrapper
 /logs/
+/bin/
 gradlew
 gradlew.bat
 
